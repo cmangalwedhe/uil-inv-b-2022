@@ -1,0 +1,12 @@
+.idea/
+B2022JudgeData/
+B2022JudgeOutput/
+B2022Solutions/
+B2022Solutions_JudgeData_OutFiles
+B2022StudentData/
+out/
+*.dat
+*.iml
+*.pdf
+src/Rhea.java
+src/Ishita.java
